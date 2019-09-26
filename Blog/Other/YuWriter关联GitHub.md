@@ -1,4 +1,4 @@
-# YuWriter关联GitHub
+# YuWriter文章推送到GitHub
 
 笔者从开始学习编程的时候就有断断续续记笔记的习惯。
 从微软的OneNote，到有道云笔记，再到Boosnote,然后到现在的YuWriter，一代软件的更迭意味着一代技术的更迭，不可避免的是文件的管理混乱。
