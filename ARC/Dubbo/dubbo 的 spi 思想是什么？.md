@@ -1,6 +1,6 @@
 **dubbo 的 spi 思想是什么？**
 
-## [](https://github.com/doocs/advanced-java/blob/master/docs/distributed-system/dubbo-spi.md#%E9%9D%A2%E8%AF%95%E5%AE%98%E5%BF%83%E7%90%86%E5%88%86%E6%9E%90)面试官心理分析
+
 
 继续深入问呗，前面一些基础性的东西问完了，确定你应该都 ok，了解 dubbo 的一些基本东西，那么问个稍微难一点点的问题，就是 spi，先问问你 spi 是啥？然后问问你 dubbo 的 spi 是怎么实现的？
 
